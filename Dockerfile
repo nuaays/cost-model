@@ -32,3 +32,7 @@ ADD ./configs/aws.json /models/aws.json
 ADD ./configs/gcp.json /models/gcp.json
 USER 1001
 ENTRYPOINT ["/go/bin/app"]
+
+
+
+
