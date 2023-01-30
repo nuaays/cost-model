@@ -1,5 +1,6 @@
 ## Kubecost
 
+
 Kubecost models give teams visibility into current and historical Kubernetes spend and resource allocation. These models  provide cost transparency in Kubernetes environments that support multiple applications, teams, departments, etc.
 
 ![Kubecost allocation UI](/allocation-drilldown.gif)
@@ -81,3 +82,6 @@ Modify [spotCPU](https://github.com/kubecost/cost-model/blob/master/configs/defa
 We supply a global key with a low limit for evaluation, but you will want to supply your own before moving to production.  
   
 Please reach out with any additional questions on  [Slack](https://join.slack.com/t/kubecost/shared_invite/enQtNTA2MjQ1NDUyODE5LWFjYzIzNWE4MDkzMmUyZGU4NjkwMzMyMjIyM2E0NGNmYjExZjBiNjk1YzY5ZDI0ZTNhZDg4NjlkMGRkYzFlZTU) or via email at [team@kubecost.com](team@kubecost.com). 
+
+
+
